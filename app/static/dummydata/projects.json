@@ -1,0 +1,102 @@
+{
+  "cards": [
+    {
+      "name": "all-contributors-atom",
+      "type": "Atom Package",
+      "desc": "Atom plugin for all-contributors spec.",
+      "img": "/static/images/allcontributors.gif",
+      "technologies": [
+        "coffeescript",
+        "atom"
+      ]
+    },
+    {
+      "name": "CloudShopper",
+      "type": "Web/Mobile App",
+      "desc": "An online companion to an offline shopping experience.",
+      "img": "/static/images/DevBible.jpg",
+      "technologies": [
+        "css3",
+        "angularjs",
+        "html5"
+      ]
+    },
+    {
+      "name": "DevBible",
+      "type": "Development Guide",
+      "desc": "For the devs, by the devs.",
+      "img": "/static/images/DevBible.jpg",
+      "technologies": []
+    },
+    {
+      "name": "EvilWords",
+      "type": "Command-Line Tool",
+      "desc": "Python-App that takes care of words you type.",
+      "img": "/static/images/DevBible.jpg",
+      "technologies": [
+        "python"
+      ]
+    },
+    {
+      "name": "HelloWorld",
+      "type": "Web-Application",
+      "desc": "A webapp built with trending frameworks.",
+      "img": "/static/images/odin2.png",
+      "technologies": [
+        "bootstrap",
+        "css3",
+        "django",
+        "html5",
+        "react"
+      ]
+    },
+    {
+      "name": "HouseKeeper",
+      "type": "Java Application",
+      "desc": "Java-App made to handle the boring parts of college.",
+      "img": "/static/images/DevBible.jpg",
+      "technologies": [
+        "java"
+      ]
+    },
+    {
+      "name": "is-alpha",
+      "type": "JavaScript Module",
+      "desc": "String Validation Module.",
+      "img": "/static/images/is-alpha.jpg",
+      "technologies": [
+        "javascript"
+      ]
+    },
+    {
+      "name": "nsit-fest",
+      "type": "React Sandbox",
+      "desc": "React-based Frontend for NSIT fests.",
+      "img": "/static/images/nsit.jpg",
+      "technologies": [
+        "css3",
+        "react",
+        "html5"
+      ]
+    },
+    {
+      "name": "nyan-cat",
+      "type": "Command-Line Tool",
+      "desc": "Modern `cat` for modern devs.",
+      "img": "/static/images/billi.png",
+      "technologies": [
+        "nodejs"
+      ]
+    },
+    {
+      "name": "speed-tester",
+      "type": "Browser-side API",
+      "desc": "An accurate and basic speed tester.",
+      "img": "/static/images/speed-tester.jpg",
+      "technologies": [
+        "javascript"
+      ]
+    }
+  ]
+}
+

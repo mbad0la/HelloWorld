@@ -1,0 +1,137 @@
+{
+  "members": [
+    {
+      "name": "Mayank Badola",
+      "post": "Core Member",
+      "img": "/static/images/Mayank-Badola.jpg",
+      "contact": [
+        "twitter",
+        "github"
+      ],
+      "contact_link": [
+        "https://twitter.com/mbad0la",
+        "https://mbad0la.github.io"
+      ]
+    },
+     {
+      "name": "Divjot Singh",
+      "post": "Core Member",
+      "img": "/static/images/Divjot-Singh.jpg",
+      "contact": [
+        "twitter",
+        "github"
+      ],
+      "contact_link": [
+        "https://twitter.com/bogas04",
+        "https://bogas04.github.io"
+      ]
+    },
+     {
+      "name": "Karanbir Chahal",
+      "post": "Core Member",
+      "img": "/static/images/Karanbir-Chahal.jpg",
+      "contact": [
+        "github"
+      ],
+      "contact_link": [
+        "https://github.com/karanchahal"
+      ]
+    },
+     {
+      "name": "Prabhakar Gupta",
+      "post": "Core Member",
+      "img": "/static/images/Prabhakar-Gupta.jpg",
+      "contact": [
+        "github"
+      ],
+      "contact_link": [
+        "https://github.com/prabhakar267"
+      ]
+    },
+     {
+      "name": "Aman Priyadarshi",
+      "post": "Collaborator",
+      "img": "/static/images/Aman-Priyadarshi.png",
+      "contact": [
+        "twitter",
+        "github"
+      ],
+      "contact_link": [
+        "https://twitter.com/amaneureka",
+        "https://github.com/amaneureka"
+      ]
+    },
+     {
+      "name": "Rahul Khanna",
+      "post": "Collaborator",
+      "img": "/static/images/Rahul-Khanna.png",
+      "contact": [
+        "github"
+      ],
+      "contact_link": [
+        "https://github.com/zerismo"
+      ]
+    },
+     {
+      "name": "Shubham Kumaram",
+      "post": "Collaborator",
+      "img": "/static/images/Shubham-Kumaram.jpg",
+      "contact": [
+        "twitter",
+        "github"
+      ],
+      "contact_link": [
+        "https://twitter.com/shubhamkrm",
+        "https://github.com/shubhamkrm"
+      ]
+    },
+     {
+      "name": "Mohit Sharma",
+      "post": "Collaborator",
+      "img": "/static/images/Mohit-Sharma.png",
+      "contact": [
+        "twitter",
+        "github"
+      ],
+      "contact_link": [
+        "https://github.com/mohits10"
+      ]
+    },
+     {
+      "name": "Samarth Chugh",
+      "post": "Collaborator",
+      "img": "/static/images/Samarth-Chugh.jpg",
+      "contact": [
+        "twitter",
+        "github"
+      ],
+      "contact_link": [
+        "https://github.com/samakha"
+      ]
+    },
+     {
+      "name": "Naman Maheshwari",
+      "post": "Collaborator",
+      "img": "/static/images/Naman-Maheshwari.jpg",
+      "contact": [
+        "twitter",
+        "github"
+      ],
+      "contact_link": [
+        "https://github.com/naman1901"
+      ]
+    },
+     {
+      "name": "Abhinav Bansal",
+      "post": "Collaborator",
+      "img": "/static/images/Abhinav-Bansal.jpg",
+      "contact": [
+        "twitter",
+        "github"
+      ],
+      "contact_link": [
+        "https://github.com/ab-decoded"
+      ]
+    }
+  ]
+}
