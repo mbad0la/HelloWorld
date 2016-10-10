@@ -9,3 +9,6 @@ bundle.js
 *.sublime-project
 *.sublime-workspace
 helloWorld/media/
+
+# mysql database configuration file
+config.py

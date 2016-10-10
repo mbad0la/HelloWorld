@@ -12,6 +12,8 @@ https://docs.djangoproject.com/en/1.9/ref/settings/
 
 import os
 
+from config import MYSQL_USERNAME, MYSQL_PASSWORD, MYSQL_HOSTNAME, MYSQL_DATABASE
+
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -80,10 +82,10 @@ WSGI_APPLICATION = 'helloWorld.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'helloWorld',
-        'USER': 'root',
-        'PASSWORD': 'abstar',
-        'HOST': 'localhost',
+        'NAME': MYSQL_DATABASE,
+        'USER': MYSQL_USERNAME,
+        'PASSWORD': MYSQL_PASSWORD,
+        'HOST': MYSQL_HOSTNAME,
         'PORT': '3306'
     }
 }
