@@ -5,6 +5,8 @@ from django.http import HttpResponse,Http404
 
 import json
 
+from utils import my_func
+
 # API wale endpoints
 def projects(request):
     if request.method == "GET":
@@ -36,3 +38,7 @@ def members(request):
         return HttpResponse(json.dumps(members.data))
     else:
         return HttpResponseForbidden('allowed only via GET')
+
+def test(request):
+	
+	return 	HttpResponse(json.dumps(my_func()))
