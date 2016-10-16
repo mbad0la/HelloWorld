@@ -1,14 +1,39 @@
-
-### HelloWorld
+# HelloWorld
 ODIN's Public Platform.
 
-#### Contribution Guide
+## Contribution Guide
 * **Backend**
   All commits are to be made on the _server_ branch.
 * **Frontend**
   All commits are to be made on the _client_ branch.
 
-#### Contributors
+## Installation
+```
+git clone https://github.com/o-d-i-n/HelloWorld.git && cd HelloWorld
+```
+```
+[sudo] pip install -r requirements.txt
+```
+```
+cd app/client
+```
+```
+[sudo] npm install
+```
+```
+[sudo] npm run build
+```
+```
+cd ../../
+```
+```
+python manage.py setup
+```
+```
+python manage.py runserver
+```
+
+## Contributors
 <!-- Contributors START
 Abhinav_Bansal ab-decoded https://github.com/ab-decoded code
 Mayank_Badola mbad0la https://github.com/mbad0la code
