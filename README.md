@@ -37,13 +37,6 @@ python manage.py runserver
 ```
 
 ## Contributors
-<!-- Contributors START
-Abhinav_Bansal ab-decoded https://github.com/ab-decoded code
-Mayank_Badola mbad0la https://github.com/mbad0la code
-Shubham_Kumaran shubhamkrm https://github.com/shubhamkrm code
-Samarth_Chugh samakha https://github.com/samakha code
-Contributors END -->
-
 All the contributions have been now moved to [Contributors](contributors.md) file.
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
