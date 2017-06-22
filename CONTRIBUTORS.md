@@ -17,7 +17,8 @@
 				<td><img src="https://avatars1.githubusercontent.com/u/4974690?v=3" width="100" height="100" alt="Mohit Sharma's avatars"></td>
 				<td align="center">Mohit Sharma</td>
 				<td align="center"><a href="https://github.com/MohitS10">MohitS10</a></td>
-				<td align="center"><a href="https://github.com/o-d-i-n/HelloWorld/commits?author=MohitS10">Mohit Sharma's<br>commits</a></td>
+				<td align="center"><a href="https://github.com/o-d-i-n/HelloWorld/commits?author=MohitS10">💻</a></td>
+				<td align="center"><a href="https://github.com/o-d-i-n/HelloWorld/issues?q=author%3AMohitS10">🐛</a></td>
 			</tr>
 			<tr>
 				<td align="center">2.</td>
