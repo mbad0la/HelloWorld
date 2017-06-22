@@ -37,6 +37,6 @@ python manage.py runserver
 ```
 
 ## Contributors
-All the contributions have been now moved to [Contributors](contributors.md) file.
+All the contributions have been now moved to [Contributors](CONTRIBUTORS.md) file.
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification.
