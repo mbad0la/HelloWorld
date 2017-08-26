@@ -4,3 +4,4 @@ djangorestframework==3.4.5
 MySQL-python==1.2.5
 Pillow==3.3.1
 six==1.10.0
+django-htmlmin==0.10.0
