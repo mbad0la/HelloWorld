@@ -26,6 +26,25 @@ cd app/client
 ```
 cd ../../
 ```
+Create a **config.py** file here with the following contents.
+```
+MYSQL_USERNAME = 'DB_USER'
+MYSQL_PASSWORD = 'DB_PASSWORD'
+MYSQL_HOSTNAME = 'localhost'
+MYSQL_DATABASE = 'DB_NAME'
+```
+
+If you don't have MySQL then run this first.
+```
+[sudo] apt-get install mysql-server 
+```
+
+Adding the MySql database into your system.
+```
+ mysql -u root -p --execute "create database DB_NAME; grant all on DB_NAME.* to DB_USER@localhost identified by 'DB_PASSWORD';"
+``` 
+
+Continue with the following to run the project.
 ```
 python manage.py migrate
 ```
